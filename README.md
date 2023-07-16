@@ -18,9 +18,35 @@ This repository consists of the following files:
 
 README.md: Provides an overview of the project and repository.
 data/coupons.csv: The raw dataset file containing the survey responses.
-couponacceptance.ipynb: A Jupyter Notebook that focuses on data preprocessing, cleaning and explores the dataset through descriptive statistics, visualizations, and correlation analysis.
+couponacceptance.ipynb: A Jupyter Notebook that focuses on data preprocessing, cleaning and explores the dataset through descriptive statistics, visualizations, and correlation analysis. [Jupyter Notebook](https://github.com/jainipallavi102210/MLAI_Module5/blob/main/couponacceptance.ipynb)
+
 
 ### Getting Started
 
 To get started with this project, you can clone the repository and access the Jupyter Notebooks for each stage of the project. 
 
+### Summary of findings
+
+#### Bar coupons Acceptance
+
+    Drivers who frequently visit cheap restaurants may be more open to accepting bar coupons because they are already budget-conscious and seek value in their dining experiences.They may see the bar coupons as an opportunity to explore new places or enjoy discounted drinks.
+    
+    Individuals who frequently visit bars, regardless of other conditions, might have a higher tendency to accept bar coupons. This group likely enjoys the bar scene and is interested in exploring new venues or saving on their preferred social activities.
+
+    These hypotheses suggest that drivers who accepted the bar coupons may have specific characteristics such as being cost-conscious, socially active, or interested in exploring new experiences. However, it's important to note that these are just hypotheses based on the provided observations, and further analysis and experimentation would be needed to confirm or validate these hypotheses.
+
+
+#### CarryAway coupouns Acceptance
+
+    Drivers who are single or in a married partnership and have a higher frequency of takeaways may be more likely to accept carryaway coupons due to their convenience and preference for dining out.  
+
+    The inverse relationship between income and coupon acceptance suggests that drivers with higher incomes may be less motivated to use coupons as they have more financial resources available for dining options.  
+
+    The prevalence of accepted coupons among individuals in categories such as Unemployed, Students, and those working in the Computer & Mathematical field indicates that these groups may be more open to utilizing coupons to save on their dining expenses.  
+
+    The finding that coupon acceptance is not influenced by drivers traveling in the same direction suggests that the decision to accept coupons is independent of the specific route or destination of the driver.  
+    
+    In summary, drivers who accepted carryaway coupons may exhibit a higher frequency of takeaways, belong to certain occupational categories, and have lower income levels. However, further research and analysis are required to validate these hypotheses and gain a deeper understanding of the drivers' behaviors and motivations in accepting carryaway coupons.  
+    
+
+More details on the approach of analysis can be found in the [Jupyter Notebook](https://github.com/jainipallavi102210/MLAI_Module5/blob/main/couponacceptance.ipynb)
